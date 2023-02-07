@@ -1,0 +1,1 @@
+This is the code with almost every "Numpy" functions with a descriptive step-by-step guide for beginners (The deep "Linear Algebra", "Probability", "Stats" are not included). 
